@@ -15,7 +15,6 @@ I am a Backend developer with over 3 years of experience specializing in Java an
 
 ## 📈 GitHub Stats
 ![Artem's GitHub stats](https://github-readme-stats.vercel.app/api?username=kaisersin&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kaisersin&layout=compact&theme=radical)
 
 ## 📫 Connect with me
 * 📧 Email: [learningartems@gmail.com](mailto:learningartems@gmail.com)
